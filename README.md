@@ -1,5 +1,7 @@
-OpenFaaS Node.js 10 (LTS) and Express.js template
+OpenFaaS Node.js 16 (LTS) and Express.js template
 =============================================
+
+2022-07-26 Trying to update this to more recent node version
 
 This template provides additional context and control over the HTTP response from your function.
 
